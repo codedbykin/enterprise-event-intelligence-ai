@@ -34,15 +34,15 @@ exhibitions, graduations, charity galas
 Built by someone who actually managed large-scale
 events at a premier international venue in Dublin
 for over 3 years. The knowledge base reflects
-real industry experience — not generic advice.
+real industry experience-not generic advice.
 
 ## AI advantage
 What used to take an event manager hours
 now takes minutes:
-- Post-event reports: 4 hours → 15 minutes
-- Budget breakdowns: 2 hours → 5 minutes
-- Risk registers: 1 hour → 2 minutes
-- Sponsorship pricing: guesswork → data-driven
+- Post-event reports: 4 hours - 15 minutes
+- Budget breakdowns: 2 hours - 5 minutes
+- Risk registers: 1 hour - 2 minutes
+- Sponsorship pricing: guesswork - data-driven
 
 ## Fields this builds toward
 - Cloud Consulting
@@ -51,7 +51,7 @@ now takes minutes:
 - AI Project Manager
 
 ## EU AI Act Classification
-Limited Risk — the assistant identifies
+Limited Risk - the assistant identifies
 itself as AI. All outputs should be reviewed
 by the event manager before presenting to clients.
 
