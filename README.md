@@ -62,8 +62,8 @@ affiliated with or endorsed by any specific venue.
 
 ## Demo Screenshots
 
-![Carbon Footprint Estimate](./Events_AI_Agent_1.png)
-![Sustainability Report](./Events_AI_Agent_2.png)
-![Carbon Footprint Table](./Events_AI_Agent_3.png)
-![Reduction Strategies](./Events_AI_Agent_4.png)
-![Offset Cost Plan](./Events_AI_Agent_5.png)
+![Carbon Footprint Estimate](./Events%20AI%20Agent_1.png)
+![Sustainability Report](./Events%20AI%20Agent_2.png)
+![Carbon Footprint Table](./Events%20AI%20Agent_3.png)
+![Reduction Strategies](./Events%20AI%20Agent_4.png)
+![Offset Cost Plan](./Events%20AI%20Agent_5.png)
