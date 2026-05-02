@@ -60,5 +60,10 @@ This is a personal portfolio project built from
 general event management experience. It is not
 affiliated with or endorsed by any specific venue.
 
-## Screenshots
-[Add screenshots here]
+## Demo Screenshots
+
+![Carbon Footprint Estimate](./Events_AI_Agent_1.png)
+![Sustainability Report](./Events_AI_Agent_2.png)
+![Carbon Footprint Table](./Events_AI_Agent_3.png)
+![Reduction Strategies](./Events_AI_Agent_4.png)
+![Offset Cost Plan](./Events_AI_Agent_5.png)
